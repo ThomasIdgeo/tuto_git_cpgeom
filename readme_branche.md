@@ -20,4 +20,13 @@ git branch
 git push -u origin dev
 ```
 
-- en suite si on modifie il n'y a qu'un push 
+- en suite si on modifie il n'y a qu'un push simple à faire au final
+
+```
+git commit -a -m "modif"
+```
+
+```
+git push
+```
+=> ma branche dev est mise à jour !
