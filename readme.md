@@ -41,7 +41,7 @@ Cette commande entraîne la création d'un sous répertoire .git, notre dossier 
 
 Notre repo local est jumelé avec le distant. Vu que je viens de compléter ce fichier readme après le premier commit, je me contredis moi même, je dois donc refaire un commit pour être "iso".
 
-- le fichier readme a été modifier, le dossier img a été ajouté
+- le fichier readme a été modifié, le dossier img a été ajouté
 ```
 Your branch is up to date with 'origin/main'.
 
@@ -55,15 +55,15 @@ Untracked files:
         img/
 ```
 
-Il faut donc ajouter ces éléments au stage avec
+- Il faut donc ajouter ces éléments au stage avec
 
 ```git add *```
 
-Puis on *commit*
+- Puis on *commit*
 
-```git commit -m "complément repo intiialisation"```
+```git commit -m "complément repo initialisation"```
 
-puis on *push*
+- Puis on *push*
 
 ```git push```
 
