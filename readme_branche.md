@@ -14,3 +14,10 @@ git branch
 * dev
   main
 ```
+
+- pour pousser cette nouvelle branche, le premier push se fait avec :
+```
+git push -u origin dev
+```
+
+- en suite si on modifie il n'y a qu'un push 
