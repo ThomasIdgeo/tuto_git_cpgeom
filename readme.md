@@ -1,6 +1,8 @@
 Tuto initiation git
 ----------------------
 
+![](https://github.com/ThomasIdgeo/svg_ressources_idgeo/blob/main/icons_png/git-original-wordmark.png)
+
 ### Introduction
 
 **Préalable.** Création d'un repo distant sur la plateforme Github
